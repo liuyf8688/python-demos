@@ -19,7 +19,8 @@ $ venv\Scripts\activate # Windows
 $ pip install scrapy 
  
 # 6. exceptions.ImportError: No module named win32api 
-first downloads the pywin32
+first downloads the pywin32 
+
 refers to https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/pywin32-220.win-amd64-py2.7.exe/download 
  
 $ easy_install C:\Users\[Your Username]\Downloads\pywin32-220.win-amd64-py2.7.exe 
