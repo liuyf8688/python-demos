@@ -1,5 +1,8 @@
 # python-demos 
- 
+
+#python version 
+Python 2.7.11 
+
 Use virtualenv 
  
 # 1. install virtualenv 
